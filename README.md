@@ -1,1 +1,3 @@
 # DATA-ANALYSIS-OF-INCREASE-IN-COST-OF-FOOD-IN-12-MONTHS
+
+![Alt text](URL_of_your_image)
